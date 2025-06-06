@@ -1,0 +1,14 @@
+﻿<Page x:Class="Project_sfpgu_desktop.Views.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Главная">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock x:Name="WelcomeText" FontSize="24" Margin="0,0,0,20"/>
+            <Button Content="Посмотреть расписание" Click="OpenSchedule_Click" Margin="0,0,0,10"/>
+            <Button Content="Учёт посещаемости" Click="OpenAttendance_Click" Margin="0,0,0,10"/>
+            <Button x:Name="CreateUserButton" Content="Создать пользователя" Click="OpenRegisterUser_Click" Margin="0,0,0,10" Visibility="Collapsed"/>
+            <Button Content="Выйти" HorizontalAlignment="Right" Click="Logout_Click" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Page>

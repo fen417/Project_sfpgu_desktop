@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\attedancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\attedancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\registeruserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\registeruserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\schedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\schedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\schedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\schedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\scheduleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\scheduleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|c:\\users\\user\\source\\repos\\project_sfpgu_desktop\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|c:\\users\\user\\source\\repos\\project_sfpgu_desktop\\views\\scheduleitemeditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\scheduleitemeditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|c:\\users\\user\\source\\repos\\project_sfpgu_desktop\\views\\scheduleitemeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\scheduleitemeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\registeruserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\registeruserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\views\\attendancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF61D7A8-549F-4326-B5F1-D66BD94F61B6}|Project_sfpgu_desktop.csproj|solutionrelative:views\\attendancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScheduleItemEditor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\ScheduleItemEditor.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ScheduleItemEditor.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\ScheduleItemEditor.xaml.cs",
+              "RelativeToolTip": "Views\\ScheduleItemEditor.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:27:01.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScheduleItemEditor.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\ScheduleItemEditor.xaml",
+              "RelativeDocumentMoniker": "Views\\ScheduleItemEditor.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\ScheduleItemEditor.xaml",
+              "RelativeToolTip": "Views\\ScheduleItemEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-06T08:24:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-05T12:52:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:51:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\RegisterUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\RegisterUserPage.xaml.cs",
+              "RelativeToolTip": "Views\\RegisterUserPage.xaml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:13:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\RegisterUserPage.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterUserPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\RegisterUserPage.xaml",
+              "RelativeToolTip": "Views\\RegisterUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:12:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AttendancePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\AttendancePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AttendancePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\AttendancePage.xaml.cs",
+              "RelativeToolTip": "Views\\AttendancePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:06:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AttendancePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\AttendancePage.xaml",
+              "RelativeDocumentMoniker": "Views\\AttendancePage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\AttendancePage.xaml",
+              "RelativeToolTip": "Views\\AttendancePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:05:25.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchedulePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\SchedulePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SchedulePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\SchedulePage.xaml.cs",
+              "RelativeToolTip": "Views\\SchedulePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:57:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchedulePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\SchedulePage.xaml",
+              "RelativeDocumentMoniker": "Views\\SchedulePage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\SchedulePage.xaml",
+              "RelativeToolTip": "Views\\SchedulePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T10:56:58.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:56:30.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttedanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\AttedanceRecord.cs",
+              "RelativeDocumentMoniker": "Models\\AttedanceRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\AttedanceRecord.cs",
+              "RelativeToolTip": "Models\\AttedanceRecord.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:47:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScheduleItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\ScheduleItem.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduleItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\ScheduleItem.cs",
+              "RelativeToolTip": "Models\\ScheduleItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:46:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\GroupModel.cs",
+              "RelativeDocumentMoniker": "Models\\GroupModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\GroupModel.cs",
+              "RelativeToolTip": "Models\\GroupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:46:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:07:07.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:58:33.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:02:29.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T09:00:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:00:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:00:05.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T08:59:00.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T08:58:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:58:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:58:03.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:57:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:57:21.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:57:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T08:55:07.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project_sfpgu_desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:55:06.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

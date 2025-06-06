@@ -1,0 +1,149 @@
+﻿<Window x:Class="Project_sfpgu_desktop.Views.ScheduleItemEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование расписания" Height="300" Width="400">
+    <StackPanel Margin="10">
+        <TextBox x:Name="GroupNameTextBox" Text="{Binding GroupName}" Margin="0,5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TextBox">
+                                <Grid>
+                                    <Border Background="White" BorderBrush="Gray" BorderThickness="1">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                    <TextBlock Text="Группа" 
+                                               Foreground="Gray" 
+                                               Margin="5,0,0,0"
+                                               VerticalAlignment="Center"
+                                               IsHitTestVisible="False">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Text, RelativeSource={RelativeSource AncestorType=TextBox}}" Value="">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+
+        <TextBox x:Name="SubjectTextBox" Text="{Binding Subject}" Margin="0,5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TextBox">
+                                <Grid>
+                                    <Border Background="White" BorderBrush="Gray" BorderThickness="1">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                    <TextBlock Text="Предмет" 
+                                               Foreground="Gray" 
+                                               Margin="5,0,0,0"
+                                               VerticalAlignment="Center"
+                                               IsHitTestVisible="False">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Text, RelativeSource={RelativeSource AncestorType=TextBox}}" Value="">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+
+        <TextBox x:Name="TeacherTextBox" Text="{Binding TeacherFullName}" Margin="0,5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TextBox">
+                                <Grid>
+                                    <Border Background="White" BorderBrush="Gray" BorderThickness="1">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                    <TextBlock Text="Преподаватель" 
+                                               Foreground="Gray" 
+                                               Margin="5,0,0,0"
+                                               VerticalAlignment="Center"
+                                               IsHitTestVisible="False">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Text, RelativeSource={RelativeSource AncestorType=TextBox}}" Value="">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+
+        <DatePicker SelectedDate="{Binding Date}" Margin="0,5"/>
+
+        <TextBox x:Name="TimeTextBox" Text="{Binding Time}" Margin="0,5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TextBox">
+                                <Grid>
+                                    <Border Background="White" BorderBrush="Gray" BorderThickness="1">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                    <TextBlock Text="Время (например, 10:00)" 
+                                               Foreground="Gray" 
+                                               Margin="5,0,0,0"
+                                               VerticalAlignment="Center"
+                                               IsHitTestVisible="False">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Text, RelativeSource={RelativeSource AncestorType=TextBox}}" Value="">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10">
+            <Button Content="Сохранить" Width="80" Margin="0,0,5,0" Click="Save_Click"/>
+            <Button Content="Отмена" Width="80" Click="Cancel_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
